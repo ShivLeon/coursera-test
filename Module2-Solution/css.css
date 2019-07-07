@@ -27,7 +27,7 @@ p{
 	position: relative;
 	margin-right: 15px;
 }
-#t1{
+#c1{
 	border-top: none;
     border-right:none;
     border-left: 1px solid black;
@@ -43,7 +43,7 @@ p{
     padding-top: 4px;
     font-weight: bold;
 }
-#t2{
+#c2{
 	border-top: none;
     border-right:none;
     border-left: 1px solid black;
@@ -59,7 +59,7 @@ p{
     padding-top: 4px;
     font-weight: bold;
 }
-#t3{
+#c3{
 	border-top: none;
     border-right:none;
     border-left: 1px solid black;
